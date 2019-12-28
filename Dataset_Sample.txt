@@ -1,0 +1,2 @@
+<# of nodes> <directed>
+<start node> <end node> <weight>
